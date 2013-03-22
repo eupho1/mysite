@@ -8,4 +8,4 @@ projects[drupal][version] = 7.12
 ;Install profile projects[mysite][type] = profile
 projects[mysite][type] = profile
 projects[mysite][download][type] = git
-projects[mysite][download][type] = git projects[mysite][download][url] = git://github.com/eupho1/mysite.git
+projects[mysite][download][type] [url] = git://github.com/eupho1/mysite.git
