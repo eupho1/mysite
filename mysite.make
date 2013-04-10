@@ -319,3 +319,25 @@ projects[xmlsitemap][version] = 2.0-rc2
 
 projects[eim][subdir] = contrib
 projects[eim][version] = 1.2
+
+;
+;Libraries
+;
+
+libraries[php-text-statistics][download][type] = file
+libraries[php-text-statistics][download][url] = "https://github.com/DaveChild/Text-Statistics.git"
+
+libraries[soundmanager2][download][type] = "file"
+libraries[soundmanager2][download][url] = "https://github.com/scottschiller/SoundManager2.git"
+
+libraries[jquery.cycle][download][type] = file
+libraries[jquery.cycle][download][url] = "https://github.com/downloads/malsup/cycle/jquery.cycle.lite.1.1.min.js"
+
+libraries[jQuery][download][type] = "file"
+libraries[jQuery][download][url] = "www.jplayer.org/latest/jQuery.jPlayer.2.2.0.zip"
+
+libraries[ckeditor][download][type] = file
+libraries[ckeditor][download][url] = "download.cksource.com/CKEditor/CKEditor/CKEditor%204.1/ckeditor_4.1_standard.zip"
+
+libraries[chosen][download][type] = "file"
+libraries[chosen][download][url] = "https://github.com/harvesthq/chosen.git"
