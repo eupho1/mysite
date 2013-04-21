@@ -44,6 +44,7 @@ projects[contentanalysis][version] = 1.0-beta5
 
 projects[contentoptimizer][subdir] = contrib
 projects[contentoptimizer][version] = 2.0-beta4
+
 projects[ctools][subdir] = contrib
 projects[ctools][version] = 1.3
 
@@ -54,10 +55,10 @@ projects[chosen][subdir] = contrib
 projects[chosen][version] = 2.0-alpha1
 
 projects[ckeditor][subdir] = contrib
-projects[ckeditor][version] = 1.12+18-dev
+projects[ckeditor][version] = 1.13
 
 projects[ckeditor_link][subdir] = contrib
-projects[ckeditor_link][version] = 2.3
+projects[ckeditor_link][version] = 2.4
 
 projects[context][subdir] = contrib
 projects[context][version] = 3.0-beta6
@@ -81,7 +82,7 @@ projects[draggableviews][subdir] = contrib
 projects[draggableviews][version] = 2.0
 
 projects[edit][subdir] = contrib
-projects[edit][version] = 1.0-alpha9
+projects[edit][version] = 1.0-alpha11
 
 projects[email][subdir] = contrib
 projects[email][version] = 1.2
@@ -183,7 +184,7 @@ projects[mediafront][subdir] = contrib
 projects[mediafront][version] = 2.0-rc8
 
 projects[metatag][subdir] = contrib
-projects[metatag][version] = 1.0-beta5
+projects[metatag][version] = 1.0-beta6
 
 projects[module_filter][subdir] = contrib
 projects[module_filter][version] = 2.x-dev
@@ -323,21 +324,21 @@ projects[eim][version] = 1.2
 ;
 ;Libraries
 ;
-
-libraries[php-text-statistics][download][type] = file
-libraries[php-text-statistics][download][url] = "https://github.com/DaveChild/Text-Statistics.git"
-
-libraries[soundmanager2][download][type] = "file"
-libraries[soundmanager2][download][url] = "https://github.com/scottschiller/SoundManager2.git"
-
-libraries[jquery.cycle][download][type] = file
-libraries[jquery.cycle][download][url] = "https://github.com/downloads/malsup/cycle/jquery.cycle.lite.1.1.min.js"
-
-libraries[jQuery][download][type] = "file"
-libraries[jQuery][download][url] = "www.jplayer.org/latest/jQuery.jPlayer.2.2.0.zip"
-
-libraries[ckeditor][download][type] = file
-libraries[ckeditor][download][url] = "download.cksource.com/CKEditor/CKEditor/CKEditor%204.1/ckeditor_4.1_standard.zip"
-
-libraries[chosen][download][type] = "file"
-libraries[chosen][download][url] = "https://github.com/harvesthq/chosen.git"
+;
+;libraries[php-text-statistics][download][type] = file
+;libraries[php-text-statistics][download][url] = "https://github.com/DaveChild/Text-Statistics.git"
+;
+;libraries[soundmanager2][download][type] = "file"
+;libraries[soundmanager2][download][url] = "https://github.com/scottschiller/SoundManager2.git"
+;
+;libraries[jquery.cycle][download][type] = file
+;libraries[jquery.cycle][download][url] = "https://github.com/downloads/malsup/cycle/jquery.cycle.lite.1.1.min.js"
+;
+;libraries[jQuery][download][type] = "file"
+;libraries[jQuery][download][url] = "www.jplayer.org/latest/jQuery.jPlayer.2.2.0.zip"
+;
+;libraries[ckeditor][download][type] = file
+;libraries[ckeditor][download][url] = "download.cksource.com/CKEditor/CKEditor/CKEditor%204.1/ckeditor_4.1_standard.zip"
+;
+;libraries[chosen][download][type] = "file"
+;libraries[chosen][download][url] = "https://github.com/harvesthq/chosen.git"
