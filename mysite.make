@@ -190,7 +190,7 @@ projects[module_filter][subdir] = contrib
 projects[module_filter][version] = 2.x-dev
 
 projects[mollom][subdir] = contrib
-projects[mollom][version] = 2.5
+projects[mollom][version] = 2.6
 
 projects[oauth][subdir] = contrib
 projects[oauth][version] = 3.1
