@@ -58,7 +58,7 @@ projects[ckeditor][subdir] = contrib
 projects[ckeditor][version] = 1.13
 
 projects[ckeditor_link][subdir] = contrib
-projects[ckeditor_link][version] = 2.4
+projects[ckeditor_link][version] = 2.3+1-dev
 
 projects[context][subdir] = contrib
 projects[context][version] = 3.0-beta6
@@ -99,14 +99,18 @@ projects[fpa][version] = 2.2
 projects[features][subdir] = contrib
 projects[features][version] = 2.0-beta2
 
+projects[feeds][downlaod] = git
+projects[feeds][version] = 2.x-dev
 projects[feeds][subdir] = contrib
-projects[feeds][version] = 2.x
 
 projects[field_collection][subdir] = contrib
 projects[field_collection][version] = 1.0-beta5
 
 projects[field_group][subdir] = contrib
 projects[field_group][version] = 1.1+65-dev
+
+;projects[field_group][subdir] = contrib
+;projects[field_group][version] = 2.x-dev
 
 projects[file_entity][subdir] = contrib
 projects[file_entity][version] = 2.0-unstable7
@@ -127,7 +131,7 @@ projects[flag][subdir] = contrib
 projects[flag][version] = 3.0-alpha4
 
 projects[footnotes][subdir] = contrib
-projects[footnotes][version] = 2.x-dev
+projects[footnotes][version] = 2.5
 
 projects[globalredirect][subdir] = contrib
 projects[globalredirect][version] = 1.5
@@ -138,8 +142,8 @@ projects[google_analytics][version] = 1.3
 projects[google_analytics_reports][subdir] = contrib
 projects[google_analytics_reports][version] = 1.3
 
-projects[hierachical_select][subdir] = contrib
-projects[hierachical_select][version] = 3.0-alpha5
+projects[hierarchical_select][subdir] = contrib
+projects[hierarchical_select][version] = 3.0-alpha5
 
 projects[honeypot][subdir] = contrib
 projects[honeypot][version] = 1.14
@@ -163,7 +167,7 @@ projects[kwresearch][subdir] = contrib
 projects[kwresearch][version] = 1.0-alpha3
 
 projects[libraries][subdir] = contrib
-projects[libraries][version] = 3.x-dev
+projects[libraries][version] = 2.1
 
 projects[link][subdir] = contrib
 projects[link][version] = 1.1
@@ -324,10 +328,10 @@ projects[eim][version] = 1.2
 ;
 ;Libraries
 ;
-;
-;libraries[php-text-statistics][download][type] = file
-;libraries[php-text-statistics][download][url] = "https://github.com/DaveChild/Text-Statistics.git"
-;
+
+libraries[php-text-statistics][download][type] = file
+libraries[php-text-statistics][download][url] = https://github.com/DaveChild/Text-Statistics.git
+
 ;libraries[soundmanager2][download][type] = "file"
 ;libraries[soundmanager2][download][url] = "https://github.com/scottschiller/SoundManager2.git"
 ;
